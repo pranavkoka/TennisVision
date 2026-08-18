@@ -1,0 +1,8 @@
+# Ignore a directory
+/large_data/
+/output_videos/
+/models/
+
+# Ignore specific files
+*.pt
+*.pth
